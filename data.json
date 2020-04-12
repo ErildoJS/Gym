@@ -1,0 +1,73 @@
+{
+  "members": [
+    {
+      "avatar_url": "https://avatars0.githubusercontent.com/u/52578096?s=460&u=d233e09f38650572379a534f8fa22788e4aa42bf&v=4",
+      "name": "Patriciof",
+      "email": "patriciopatrick92@gmail.com",
+      "birth": 1586563200000,
+      "gender": "M",
+      "blood": "A-",
+      "weight": "64",
+      "height": "179",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/52578096?s=460&u=d233e09f38650572379a534f8fa22788e4aa42bf&v=4",
+      "name": "Patricio Patrick",
+      "email": "patriciopatrick92@gmail.com",
+      "birth": 924825600000,
+      "gender": "M",
+      "blood": "A+",
+      "weight": "66",
+      "height": "180"
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/52578096?s=460&u=d233e09f38650572379a534f8fa22788e4aa42bf&v=4",
+      "name": "erik",
+      "email": "erik@gmail.com",
+      "birth": 825724800000,
+      "gender": "M",
+      "blood": "A+",
+      "weight": "77",
+      "height": "178"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/52578096?s=460&u=d233e09f38650572379a534f8fa22788e4aa42bf&v=4",
+      "name": "ErildoJS",
+      "birth": 1586563200000,
+      "gender": "M",
+      "services": "Musculação",
+      "created_at": 1586556951227
+    }
+  ],
+  "instructor": [],
+  "member": [
+    {
+      "avatar_url": "https://avatars0.githubusercontent.com/u/52578096?s=460&u=d233e09f38650572379a534f8fa22788e4aa42bf&v=4",
+      "name": "Patriciof",
+      "email": "patriciopatrick92@gmail.com",
+      "birth": 1586563200000,
+      "gender": "M",
+      "blood": "A-",
+      "weight": "64",
+      "height": "179",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/52578096?s=460&u=d233e09f38650572379a534f8fa22788e4aa42bf&v=4",
+      "name": "Patricio Patrick",
+      "email": "patriciopatrick92@gmail.com",
+      "birth": 924825600000,
+      "gender": "M",
+      "blood": "A+",
+      "weight": "66",
+      "height": "180"
+    }
+  ]
+}
